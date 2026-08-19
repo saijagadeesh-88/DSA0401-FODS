@@ -1,4 +1,8 @@
-
+# Question: Using Pandas DataFrame operations, how would you find the following information from
+# the order_data DataFrame:
+# 1. The total number of orders made by each customer.
+# 2. The average order quantity for each product.
+# 3. The earliest and latest order dates in the dataset.
 import pandas as pd
 
 order_data = pd.DataFrame({
