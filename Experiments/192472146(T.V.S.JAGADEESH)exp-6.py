@@ -1,3 +1,5 @@
+# Question: Use arithmetic operations to calculate the total cost of a customer's purchase, including
+# discounts and taxes, given the item prices, quantities, discount rate, and tax rate?
 import numpy as np
 
 prices = np.array([50, 30, 20])
