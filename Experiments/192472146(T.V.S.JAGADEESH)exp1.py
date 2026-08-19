@@ -1,6 +1,10 @@
+# Question: How would you use NumPy arrays to calculate the average score for each subject and
+# determine the subject with the highest average score? Assume 4x4 matrix that stores marks of each
+# student in given order.
 import numpy as np
 
 student_scores = np.array([
+    
     [85, 90, 78, 92],
     [70, 88, 95, 60],
     [75, 82, 89, 91],
